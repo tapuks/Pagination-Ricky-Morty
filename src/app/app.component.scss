@@ -1,0 +1,28 @@
+h3 {
+    color: aliceblue;
+    margin-top: 20px;
+    text-align: center;
+}
+h6 {
+    color: white;
+}
+
+.personaje {
+    
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    background-color: aliceblue;
+    border: 3px solid black;
+}
+
+.personaje img {
+    width: 100%;
+}
+
+.vivo {
+    border-color:  lightgreen;
+}
+.muerto {
+    border-color:  tomato;
+}
